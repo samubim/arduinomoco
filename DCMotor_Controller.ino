@@ -1,6 +1,7 @@
 /*
 This code works on 2-button-step 1 axis travelling motion controller, 
 positive parabolic direction.
+QUADRATIC PROGRESS
 */
 
 #include <math.h>
